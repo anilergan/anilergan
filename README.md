@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Anıl ERGAN</h1>
 <h3 align="center">Data Scientist, Artificial Intelligence Specialist with a passion for coding. Developing individual/large scale projects with artificial intelligence algorithms. Data mining and modeling with Machine Learning techniques in large data sets. Desktop application development for hobby purposes.</h3>
 
-- 🔭 I’m currently working on **AI-supported surveillance in UAVs**
+- 🔭 I’m currently working as **Data Science Intern at Nesines**
 
-- 🌱 I’m currently learning **Pytorch, OpenCV, YOLO, Docker and Web programming as pastime**
+- 🌱 I’m currently learning **Pytorch, Docker and RL algorithms**
 
 - 💬 Ask me about **Python, OOP, Machine Learning, Data Science.**
 
