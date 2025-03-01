@@ -1,15 +1,12 @@
-![MasterHead]([https://wallpapercave.com/wp/wp4892498.jpg](https://images.unsplash.com/photo-1686428449887-9e8c859861ae?q=80&w=2093&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
+![Unsplash Image](https://images.unsplash.com/photo-1686428449887-9e8c859861ae)
 
 <h1 align="center">Hi 👋, I'm Anıl ERGAN</h1>
 <h3 align="center">Data Scientist, Artificial Intelligence Specialist with a passion for coding. Developing individual/large scale projects with artificial intelligence algorithms. Data mining and modeling with Machine Learning techniques in large data sets. Desktop application development for hobby purposes.</h3>
 
-- 🔭 I’m currently working as **Data Science Intern at Nesines**
-
-- 🌱 I’m currently learning **Pytorch, Docker and RL algorithms**
-
-- 💬 Ask me about **Python, OOP, Machine Learning, Data Science.**
-
-- 📫 How to reach me **ergananil@gmail.com**
+- 🔭 I’m currently looking for a job as **Data Scientist, ML Engineer, Python Developer.**
+- ✨ I am ambitious about **Python, OOP, Data Analysis, Machine Learning and entire AI fileds.**
+- 🌱 I’m currently learning **Pytorch, Docker and RL algorithms.**
+- 📫 Reach me out: **ergananil@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
